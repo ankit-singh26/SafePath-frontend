@@ -38,8 +38,9 @@ function Header() {
             className={`lg:flex ${isMenuOpen ? "block" : "hidden"
               } flex-col lg:flex-row items-center space-y-6 lg:space-y-0 lg:space-x-6 md:space-x-10`}
           >
+            <li></li>
             <li>
-              <Link to={"/"} className="text-sm md:text-base">
+              <Link to={"/"} className="lg:ml-0 text-sm md:text-base">
                 Home
               </Link>
             </li>
