@@ -1,0 +1,164 @@
+{
+    "emergencies": [
+      {
+        "id": 1,
+        "name": "Fire Emergency",
+        "steps": [
+          "Stay calm and alert others in the building",
+          "Turn off any electrical appliances and lights",
+          "Do not use elevators",
+          "Evacuate the building immediately",
+          "Call the fire department or emergency services"
+        ],
+        "precautions": [
+          "Ensure all electrical appliances are well-maintained",
+          "Keep flammable materials away from heat sources",
+          "Store fire extinguishers in easily accessible locations",
+          "Conduct regular fire drills and training",
+          "Ensure all exits are clear and well-lit"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Building Collapse",
+        "steps": [
+          "Evacuate the building immediately",
+          "Call emergency services",
+          "Do not attempt to enter the building",
+          "Stay away from the building until it is declared safe",
+          "Follow instructions from emergency responders"
+        ],
+        "precautions": [
+          "Regularly inspect the building for signs of structural damage",
+          "Ensure all construction and renovation work is done by licensed professionals",
+          "Keep emergency exits clear and well-lit",
+          "Conduct regular evacuation drills",
+          "Have a plan in place for emergency situations"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Flood",
+        "steps": [
+          "Move to higher ground immediately",
+          "Stay away from floodwaters",
+          "Do not attempt to drive through floodwaters",
+          "Turn off utilities such as electricity and gas",
+          "Follow evacuation instructions from authorities"
+        ],
+        "precautions": [
+          "Stay informed about weather conditions",
+          "Have a flood emergency kit with essentials such as food, water, and first aid supplies",
+          "Keep important documents and valuables in a safe and dry place",
+          "Consider purchasing flood insurance",
+          "Regularly inspect and maintain flood protection measures such as levees and floodwalls"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Earthquake",
+        "steps": [
+          "Drop, cover, and hold on to a sturdy object",
+          "Stay away from windows and exterior walls",
+          "Evacuate the building if instructed to do so by authorities",
+          "Be prepared for aftershocks",
+          "Follow instructions from emergency responders"
+        ],
+        "precautions": [
+          "Secure heavy objects and furniture to walls",
+          "Store emergency supplies such as food, water, and first aid kits",
+          "Have a plan in place for emergency situations",
+          "Regularly practice earthquake drills",
+          "Consider retrofitting your home or building to make it more earthquake-resistant"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hurricane",
+        "steps": [
+          "Board up windows and doors",
+          "Secure outdoor furniture and decorations",
+          "Stock up on emergency supplies such as food, water, and batteries",
+          "Evacuate if instructed to do so by authorities",
+          "Stay indoors and away from windows during the storm"
+        ],
+        "precautions": [
+          "Stay informed about weather conditions",
+          "Have a hurricane emergency kit with essentials such as food, water, and first aid supplies",
+          "Consider purchasing hurricane insurance",
+          "Regularly inspect and maintain storm shutters and impact-resistant windows",
+          "Trim trees and shrubs to minimize branches that could cause damage"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Tornado",
+        "steps": [
+          "Seek shelter in a basement or storm cellar",
+          "Stay away from windows and exterior walls",
+          "Get under a sturdy table or desk",
+          "Cover your head and neck with your arms",
+          "Follow instructions from emergency responders"
+        ],
+        "precautions": [
+          "Stay informed about weather conditions",
+          "Have a tornado emergency kit with essentials such as food, water, and first aid supplies",
+          "Consider purchasing tornado insurance",
+          "Regularly practice tornado drills",
+          "Have a plan in place for emergency situations"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Volcanic Eruption",
+        "steps": [
+          "Stay indoors and away from windows",
+          "Avoid traveling unless absolutely necessary",
+          "Keep phone lines open for emergency calls",
+          "Follow instructions from authorities",
+          "Be prepared for ashfall and potential power outages"
+        ],
+        "precautions": [
+          "Stay informed about volcanic activity",
+          "Have a volcanic eruption emergency kit with essentials such as food, water, and first aid supplies",
+          "Consider purchasing volcanic eruption kit"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Storm",
+        "steps": [
+          "Evacuate the building immediately",
+          "Call emergency services",
+          "Do not attempt to enter the building",
+          "Stay away from the building until it is declared safe",
+          "Follow instructions from emergency responders"
+        ],
+        "precautions": [
+          "Ensure all electrical appliances are well-maintained",
+          "Keep flammable materials away from heat sources",
+          "Store fire extinguishers in easily accessible locations",
+          "Conduct regular fire drills and training",
+          "Ensure all exits are clear and well-lit"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Power Outage",
+        "steps": [
+          "Stay calm and avoid panic",
+          "Use flashlights or battery-powered lanterns instead of candles",
+          "Keep refrigerator and freezer doors closed",
+          "Use a battery-powered radio to stay informed",
+          "Follow instructions from authorities"
+        ],
+        "precautions": [
+          "Have a power outage emergency kit with essentials such as flashlights, batteries, and first aid supplies",
+          "Consider purchasing a portable generator",
+          "Regularly inspect and maintain electrical equipment",
+          "Have a plan in place for emergency situations",
+          "Stay informed about weather conditions"
+        ]
+      }
+    ]
+  }
