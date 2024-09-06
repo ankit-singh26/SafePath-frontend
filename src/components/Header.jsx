@@ -5,11 +5,9 @@ function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const toggleMenu = () => {
-    console.log("Toggle menu clicked!");
-    console.log("isMenuOpen:", isMenuOpen);
-    setIsMenuOpen(!isMenuOpen);
-    console.log("isMenuOpen after toggle:", isMenuOpen);
+    setIsMenuOpen((prevIsMenuOpen) => !prevIsMenuOpen);
   };
+
   return (
     <header className="bg-gray-800 text-white py-4">
       <nav className="container mx-auto flex justify-center">
@@ -37,7 +35,7 @@ function Header() {
             </svg>
           </button>
           <ul
-            className={`lg:flex hidden ${isMenuOpen ? "block" : "hidden"
+            className={`lg:flex ${isMenuOpen ? "block" : "hidden"
               } flex-col lg:flex-row items-center space-y-6 lg:space-y-0 lg:space-x-6 md:space-x-10`}
           >
             <li>
