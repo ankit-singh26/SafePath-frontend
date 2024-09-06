@@ -1,8 +1,10 @@
 import React from 'react';
 import MapComponent from '../components/MapComponent';
 import Header from '../components/Header';
+import { useNavigate } from 'react-router-dom';
 
 const Map = () => {
+  const navigate = useNavigate();
   return (
     <>
       <Header/>
@@ -17,7 +19,7 @@ const Map = () => {
           className="bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded mt-4"
           onClick={() => {
             // Navigate to distress form page
-            window.location.href = '/distress-form';
+            navigate('/distress');
           }}
         >
           Report Distress
